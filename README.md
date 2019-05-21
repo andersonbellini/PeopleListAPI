@@ -7,8 +7,8 @@ API: http://randomuser.me/
 
 ## Screenshots
 
-![PeopleListAPI](./screenshot01.jpg)
-![PeopleListAPI](./screenshot02.jpg)
+![PeopleListAPI](./screenshot01.png)
+![PeopleListAPI](./screenshot02.png)
 
 ## Table of Contents
 
