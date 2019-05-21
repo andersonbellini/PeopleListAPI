@@ -23,7 +23,11 @@
       "**/*"
     ],
     "ios": {
+      "bundleIdentifier": "com.andersonbellini.todoSeries",
       "supportsTablet": true
+    },
+    "android": {
+      "package": "com.andersonbellini.todoSeries"
     }
   }
 }

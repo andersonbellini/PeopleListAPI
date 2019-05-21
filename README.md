@@ -64,3 +64,7 @@ Conceitos estudados:
   - Conceitos de React
   - Conceitos de React Native
   - Padrões de Projetos
+
+
+APK generated using expo, for download and install on Android
+https://expo.io/artifacts/ffc0e1f5-7532-42fb-99db-f58d8f97faec
