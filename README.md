@@ -42,3 +42,25 @@ Like `npm start`, but also attempts to open your app in the iOS Simulator if you
 #### `npm run android`
 
 Like `npm start`, but also attempts to open your app on a connected Android device or emulator. Requires an installation of Android build tools.
+
+
+** [Portuguese] **
+Conceitos estudados:
+  - Criação de projeto 
+  - Estilização
+  - Navegação (Usando react-navigation)
+  - Passagem de dados para outras páginas
+  - Uso de código assíncronos (promises)
+  - Chamadas HTTP usando a biblioteca Axios
+  - Renderização de lista de alta performance
+  - Uso de Imagens
+  - Uso de Posicionamento com Flex box
+  - Tornar componentes clicáveis
+  - Tratamento de estado de loading
+  - Tratamentos de erros
+  - Rederização condicional
+  - Boas práticas
+  - Conceitos de ES6
+  - Conceitos de React
+  - Conceitos de React Native
+  - Padrões de Projetos
